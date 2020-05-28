@@ -1,0 +1,36 @@
+{
+  "name": "music-bot",
+  "version": "0.0.1",
+  "description": "A simple Music Bot with OP features.",
+  "main": "musicbot.js",
+  "scripts": {
+    "start": "node musicbot.js"
+  },
+  "dependencies": {
+    "better-youtube-api": "^2.1.7",
+    "discord.js": "^11.6.4",
+    "express": "^4.17.1",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.0.1",
+    "google-translate": "^3.0.0",
+    "mongoose": "^5.9.16",
+    "ms": "^2.1.2",
+    "opusscript": "0.0.7",
+    "sqlite3": "^4.1.1",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "^2.0.0",
+    "ytpl": "^0.1.20"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/music-bot-script"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
