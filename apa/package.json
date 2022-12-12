@@ -9,7 +9,7 @@
   "dependencies": {
     "better-youtube-api": "^2.1.7",
     "discord.js": "^11.6.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "ffmpeg": "0.0.4",
     "ffmpeg-static": "^4.0.1",
     "google-translate": "^3.0.0",
